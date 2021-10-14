@@ -152,7 +152,7 @@ h1, h2, h3, h4, h5, h6 {
 # Navigation Menu
 --------------------------------------------------------------*/
 /**
-* Desktop Navigation 
+* Desktop Navigation
 */
 .navbar {
   padding: 0;
@@ -269,7 +269,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /**
-* Mobile Navigation 
+* Mobile Navigation
 */
 .mobile-nav-toggle {
   color: #2b2320;
@@ -660,7 +660,7 @@ section {
 .services .icon-box {
   padding: 50px 20px;
   margin-top: 35px;
-  margin-bottom: 25px;
+  margin-bottom: 15px;
   text-align: center;
   border: 1px solid #ebe6e4;
   height: 200px;
